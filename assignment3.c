@@ -15,6 +15,7 @@ int main() {
     {
         printf("%d ", array[j]);
     }
+    return 0;
 }
 
 int bubble_sort(int arr[], int count) {
@@ -32,4 +33,5 @@ int bubble_sort(int arr[], int count) {
             }
         }
     }
+    return 0;
 }
